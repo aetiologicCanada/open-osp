@@ -11,7 +11,9 @@ This repo was originally based on [scoophealth (UVIC)](https://github.com/scooph
   * `./openosp setup`
   * if you need a database, `./openosp bootstrap`
   * `./openosp start`
-  * Browse to Oscar on http://localhost!
+  * Browse to Oscar on http://localhost !
+  * If deployed to the cloud or other non-local host, try:
+     http://external_IP:8080/oscar/index.jsp
   * Log in with the initial credentials. You will be prompted to change your password upon initial login.
       - Username: oscardoc
       - Password: mac2002
